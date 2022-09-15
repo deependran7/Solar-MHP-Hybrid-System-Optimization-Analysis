@@ -2,6 +2,13 @@
 
 This is the coding part of the article titled "Optimal sizing and financial analysis of a stand-alone SPV-micro-hydropower hybrid system considering generation uncertainty"
 
+
+<p float="left">
+  <img src="/figure 1 right.jpg" width="100" />
+  <img src="/figure 2 left.jpg" width="100" /> 
+</p>
+
+
 Please, cite with following bibtex:
 
 @article{neupane2021optimal,
