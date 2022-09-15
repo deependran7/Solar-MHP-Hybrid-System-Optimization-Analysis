@@ -15,8 +15,8 @@ This is the coding part of the article titled "Optimal sizing and financial anal
 
 
 <p float="left">
-  <img src="/figure 3 left.jpg" width="400" />
-  <img src="/figure 3 right.jpg" width="400" /> 
+  <img src="/figure 3 left.jpg" width="600" />
+  <img src="/figure 3 right.jpg" width="600" /> 
 </p>
 
 
