@@ -4,8 +4,8 @@ This is the coding part of the article titled "Optimal sizing and financial anal
 
 
 <p float="left">
-  <img src="/figure 1 right.jpg" width="600" />
-  <img src="/figure 2 left.jpg" width="600" /> 
+  <img src="/figure 1 right.jpg" width="500" />
+  <img src="/figure 2 left.jpg" width="500" /> 
 </p>
 
 
