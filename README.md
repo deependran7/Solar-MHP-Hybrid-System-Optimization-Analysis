@@ -14,6 +14,12 @@ This is the coding part of the article titled "Optimal sizing and financial anal
 </p>
 
 
+<p float="left">
+  <img src="/figure 3 left.jpg" width="400" />
+  <img src="/figure 3 right.jpg" width="400" /> 
+</p>
+
+
 Please, cite with following bibtex:
 
 @article{neupane2021optimal,
